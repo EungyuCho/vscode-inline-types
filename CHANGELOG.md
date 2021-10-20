@@ -37,7 +37,14 @@ All notable changes to this project will be documented in this file. See [standa
 <a name="0.1.0"></a>
 # 0.1.0 (2018-04-02)
 
-
 ### Features
 
 * initial commit ([c4836bc](https://github.com/MartinJohns/vscode-inline-types/commit/c4836bc))
+
+
+# 0.1.1 (2021-10-20)
+
+### Bug Fixes
+- upgrade typescript version
+    - cannot parse jsx argument in "react-jsx" option
+- upgrade dependency vscode
